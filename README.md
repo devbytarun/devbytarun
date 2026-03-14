@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Tarun 👋
 
-<!--
-**devbytarun/devbytarun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA Student • Developer in Progress  
+Started my coding journey in March 2026.
 
-Here are some ideas to get you started:
+## Current Focus
+- Strengthening programming fundamentals
+- Learning Web Development (HTML, CSS, JavaScript)
+- Starting Data Structures & Algorithms
+- Exploring AI-powered applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I'm Working With
+- HTML
+- CSS
+- JavaScript (learning)
+- Git & GitHub
+
+## Learning Roadmap
+- Frontend Development
+- MERN Stack
+- Data Structures & Algorithms
+- AI / Machine Learning integration
+
+## Goals
+- Build impactful real-world projects
+- Master full-stack development
+- Contribute to open-source
+- Work on AI-powered applications
+
+## Philosophy
+Learn → Build → Break → Fix → Repeat
