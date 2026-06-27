@@ -1,78 +1,79 @@
-<div align="center">
+<!-- GitHub Profile README — devbytarun -->
 
-🧑‍💻 **Tarun** • 19yo • BCA Student • Building in Public
+<h2 align="center">Hey, I'm Tarun 👋</h2>
 
-📍 Jaipur, Rajasthan &nbsp;|&nbsp; 🎯 Full-Stack Dev in Progress
+<p align="center">
+  BCA student. Full-stack in progress.<br/>
+  No roadmap handed to me — so I made my own.
+</p>
 
----
-
-## 🛠️ Tech Stack
-
-**Currently using:**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-&nbsp;
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-&nbsp;
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-&nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-&nbsp;
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-<br/>
-
-**Learning next:**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-&nbsp;
-![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
-&nbsp;
-![AI/ML](https://img.shields.io/badge/AI%2FML-FF4500?style=for-the-badge&logo=openai&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Jaipur%2C%20Rajasthan-📍-0A66C2?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to%20Internships-✅-2ea44f?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/BCA%20'28%20%40%20RTU-🎓-f0883e?style=flat-square" />
+</p>
 
 ---
 
-## 📈 Progress
+## 🛠 Tech Stack
 
-<br/>
+**Solid:**
 
-![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-100%25-39d353?style=flat-square&labelColor=0d1117)
-&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-65%25-e3b341?style=flat-square&labelColor=0d1117)
-&nbsp;&nbsp;
-![Node + Express](https://img.shields.io/badge/Node%20%2B%20Express-40%25-f0883e?style=flat-square&labelColor=0d1117)
-&nbsp;&nbsp;
-![React](https://img.shields.io/badge/React-15%25-f85149?style=flat-square&labelColor=0d1117)
-&nbsp;&nbsp;
-![DSA + AI/ML](https://img.shields.io/badge/DSA%20%2B%20AI%2FML-10%25-8b949e?style=flat-square&labelColor=0d1117)
+![Full-stack](https://img.shields.io/badge/Full--Stack%20Dev-0A66C2?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-339933?style=flat-square)
+![Auth & JWT](https://img.shields.io/badge/Auth%20%26%20JWT-000000?style=flat-square)
+![Git](https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Learning:**
+
+![React](https://img.shields.io/badge/React%20%2B%20TS-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![DSA Java](https://img.shields.io/badge/DSA%20in%20Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![AI Dev](https://img.shields.io/badge/AI--Assisted%20Dev-6E40C9?style=flat-square)
+![System Design](https://img.shields.io/badge/System%20Design-555555?style=flat-square)
+
+---
+
+## 🚀 What I'm working on
+
+**🔨 Building Collabix — full-stack project**
+> A platform for developers to find collaborators and build together
+> `React` `Node.js` `MongoDB` `JWT`
+
+**📚 Learning DSA in Java**
+> Starting from scratch — variables → arrays → problem solving
+> `Java` `Arrays` `Strings` `Recursion`
+
+**🤖 AI-assisted development**
+> Using AI tools daily to learn faster, debug smarter, and ship better code
+> `Claude` `GitHub Copilot` `Prompt engineering` `AI workflows`
+
+---
+
+> 💼 **Open to internships** — frontend, backend, or full-stack. Let's build something.
+> 📬 Reach me on [LinkedIn](https://linkedin.com/in/devbytarun)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devbytarun&theme=github-dark-blue&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devbytarun&theme=github-compact&hide_border=true" />
+</p>
 
 ---
 
 ## 🔗 Connect
 
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-devbytarun-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devbytarun)
-&nbsp;&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-devbytarun-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devbytarun)
-&nbsp;&nbsp;&nbsp;
-[![X](https://img.shields.io/badge/X-devbytarun-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/devbytarun)
+[![GitHub](https://img.shields.io/badge/GitHub-devbytarun-181717?style=flat-square&logo=github)](https://github.com/devbytarun)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-devbytarun-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/devbytarun)
+[![X](https://img.shields.io/badge/X-devbytarun-000000?style=flat-square&logo=twitter)](https://x.com/devbytarun)
+[![LeetCode](https://img.shields.io/badge/LeetCode-devbytarun-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/devbytarun)
 
 ---
 
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devbytarun&theme=github-dark-blue&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devbytarun&theme=github-compact&hide_border=true" />
-
-</div>
+<p align="center"><i>Build > Watch &nbsp;·&nbsp; Consistency > Intensity</i></p>
