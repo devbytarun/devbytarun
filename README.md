@@ -31,7 +31,7 @@
 ![React](https://img.shields.io/badge/React%20%2B%20TS-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![DSA Java](https://img.shields.io/badge/DSA%20in%20Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![AI Dev](https://img.shields.io/badge/AI--Assisted%20Dev-6E40C9?style=flat-square)
-![System Design](https://img.shields.io/badge/System%20Design-555555?style=flat-square)
+
 
 ---
 
