@@ -31,7 +31,6 @@
 <p><b>Full Stack Development · Student · Builder</b></p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://portfoliodevbytarun.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-devbytarun-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devbytarun)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-devbytarun-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devbytarun)
 [![Email](https://img.shields.io/badge/Email-devbytarun@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devbytarun@gmail.com)
 
